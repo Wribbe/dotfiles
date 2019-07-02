@@ -182,6 +182,8 @@ exec --no-startup-id unclutter
 exec --no-startup-id compton -CGb --backend glx --vsync opengl
 exec --no-startup-id nitrogen --restore
 
+exec --no-startup-id setxkbmap -option caps:escape
+
 mode  "Passthrough Mode - Press ALT+CTRL+V to exit" {
   bindsym $mod+Shift+v mode "default"
 }
