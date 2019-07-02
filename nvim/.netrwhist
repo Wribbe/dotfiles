@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/steff/.fzf'
+let g:netrw_dirhist_2='/home/steff/projects/js/angluar.js/angular-tour-of-heroes/src/app'
+let g:netrw_dirhist_3='/home/steff/projects/js/angluar.js/angular-tour-of-heroes/src/app/heroes'
+let g:netrw_dirhist_4='/home/steff/projects/js/angluar.js/angular-tour-of-heroes/src/app'
+let g:netrw_dirhist_5='/home/steff/projects/js/angluar.js/angular-tour-of-heroes/src'
+let g:netrw_dirhist_6='/home/steff/projects/müsli/.git'
